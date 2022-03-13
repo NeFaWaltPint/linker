@@ -1,7 +1,7 @@
 # Linker
 Linker
 
-ssh: tcp://2.tcp.ngrok.io:13327 
-http: http://7301-190-0-243-44.ngrok.io 
-https: https://b5cb-190-0-243-44.ngrok.io 
-testing: http://ac59-190-0-243-44.ngrok.io 
+ssh: tcp://8.tcp.ngrok.io:15724 
+http: http://17da-2800-484-b879-a3f0-b956-c822-b16f-6bff.ngrok.io 
+https: https://0f87-2800-484-b879-a3f0-b956-c822-b16f-6bff.ngrok.io 
+testing: http://0824-2800-484-b879-a3f0-b956-c822-b16f-6bff.ngrok.io 
